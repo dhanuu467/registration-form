@@ -1,0 +1,68 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+p,
+.form {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  gap: 15px;
+}
+
+
+.TextField {
+  width: 100%;
+  border: 1px solid#0a0909;
+  border-radius: 4px;
+  box-sizing: border-box;
+
+}
+.content {
+  height: 200px;
+  border: 1px solid;
+  display: flex;
+  flex-direction: column;
+}
+h1, h2 {
+  margin: 0;
+}
+a {
+  margin-top: auto;
+}
+
+  .App{
+    background-color: aliceblue;
+    padding: 20px;
+    border: 2px soli;
+    border-radius: 5px;
+  
+  }
+
+.App {
+  text-align: center;
+}
+
+.registration-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 2px solid #0a0909; 
+  padding: 20px; 
+  border-radius: 10px; 
+  width: 300px; 
+  margin: 0 auto; 
+  background-color: #addae2; 
+}
+
+.form-field {
+  margin: 10px;
+  width: 100%;
+}
